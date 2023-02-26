@@ -1,4 +1,4 @@
-# Trdaing-dashboard![dashboard](https://user-images.githubusercontent.com/117412844/221411119-af7f9561-9b66-4760-b934-895aeabe5c90.png)
+# Tradding-dashboard![dashboard](https://user-images.githubusercontent.com/117412844/221411119-af7f9561-9b66-4760-b934-895aeabe5c90.png)
 
 #First inatll react then copy the file put into the src folder and enter Npm start
 Then dont forget to follow me for more stuf like this Thanks Top G.
